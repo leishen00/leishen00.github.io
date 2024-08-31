@@ -32,9 +32,6 @@ I am interested in exploring the mechanisms of malignant tumors, especially mali
 
 ## Contact Me
 
-You can also add me as a WeChat friend by scanning the following QR code.
-
-![WeChat QR Code](https://leishen00.github.io/images/wechat.png)
-
+You can contact me via email: leishen@whu.edu.cn.
 
 Feel free to get in touch if you have any questions or opportunities for collaboration.
