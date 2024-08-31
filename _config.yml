@@ -21,7 +21,8 @@ repository               : "leishen00/leishen00.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ![photo](https://leishen00.github.io/images/photo.png)
+  avatar           : https://leishen00.github.io/images/photo.png
+
   name             : "Lei Shen"
   pronouns         : # example: "she/her"  
   bio              : "There is no royal to leaning."
