@@ -1,7 +1,7 @@
 ---
 title: "Mechanistic insight into glioma through spatially multidimensional proteomics"
 collection: publications
-category: Journal Articles
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about an innovative proteomics analysis strategy for gliomas.'
 date: 2024-02-16
