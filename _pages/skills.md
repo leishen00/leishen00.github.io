@@ -18,6 +18,7 @@ comments: true
       <li>Cell culture, staining, scratch assay, colony formation, CCK8, Transwell</li>
       <li>qPCR, Western blot, Immunohistochemistry, ELISA, Co-IP, ChIP, RIP</li>
       <li>Basic animal handling, sampling, behavioral testing</li>
+      <li>Sample preparation for sequencing or mass spectrometry (cells, tissues, body fluids)</li>
     </ul>
   </div>
 
@@ -25,10 +26,11 @@ comments: true
   <div class="p-4 border rounded-lg shadow hover:shadow-lg transition">
     <h3 class="text-xl font-semibold mb-2">Dry-lab / Bioinformatics Skills 💻</h3>
     <ul class="list-disc list-inside space-y-1">
-      <li>R, Python</li>
-      <li>Bulk RNA-seq, single-cell RNA-seq, proteomics, metabolomics analysis</li>
+      <li>Programming: R, Python, LaTeX</li>
+      <li>Tools: CellProfiler, ImageJ</li>
+      <li>Bulk RNA-seq, single-cell RNA-seq, proteomics, metabolomics, and other high-throughput data visualization and statistical analysis</li>
       <li>Differential expression, functional enrichment, immune landscape, machine learning-based feature selection, biomarker discovery, model construction & validation, drug sensitivity prediction, somatic mutation analysis, alternative splicing analysis</li>
-      <li>High-throughput data visualization and statistical analysis</li>
+      <li>Integration of multi-omics data with experimental validation</li>
     </ul>
   </div>
 
@@ -38,7 +40,7 @@ comments: true
     <ul class="list-disc list-inside space-y-1">
       <li>Lumbar puncture, continuous lumbar subarachnoid drainage</li>
       <li>Basic surgical skills</li>
-      <li>Retrospective clinical research (epilepsy surgery, hemifacial spasm)</li>
+      <li>Clinical data collection, retrospective analysis, and interpretation (epilepsy surgery, hemifacial spasm)</li>
     </ul>
   </div>
 
@@ -49,6 +51,7 @@ comments: true
       <li>Independent design and execution of research projects</li>
       <li>Literature review, experimental planning, sample processing, data analysis, manuscript preparation</li>
       <li>Multidisciplinary collaboration integrating wet-lab, dry-lab, and clinical research</li>
+      <li>Problem-solving from clinical questions to experimental design</li>
     </ul>
   </div>
 
@@ -58,9 +61,8 @@ comments: true
     <ul class="list-disc list-inside space-y-1">
       <li>Chinese (native), English (proficient)</li>
       <li>Strong self-learning ability, independent thinking, and proactive acquisition of new methods and techniques</li>
-      <li>Integration of multi-omics data with experimental validation</li>
-      <li>Ability to translate research findings into clinical applications</li>
       <li>Effective communication and teamwork in interdisciplinary projects</li>
+      <li>Systematic scientific thinking and ability to integrate clinical and experimental insights</li>
     </ul>
   </div>
 
