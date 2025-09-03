@@ -1,13 +1,13 @@
 ---
 layout: single
-title: Research Interest
+title: 
 permalink: /research_interest/
 author_profile: true
 share: true
 comments: true
 ---
 
-My research focuses on the molecular mechanisms, biological characteristics, and potential therapeutic targets of gliomas. By integrating transcriptomics, proteomics, and single-cell transcriptomics, I aim to dissect the complexity of gliomas and identify novel biomarkers and therapeutic targets. Equally important, I seek to validate these omics-derived findings through comprehensive cellular, molecular, and animal experiments, thereby uncovering deeper molecular mechanisms. I am proficient in using R, Python, and other computational tools to analyze high-throughput omics data—including transcriptomics, proteomics, and single-cell RNA sequencing—to identify key genes, signaling pathways, and tumor microenvironmental features. Furthermore, I have the ability to continuously develop and refine bioinformatics methodologies.
+My research focuses on the molecular mechanisms, biological characteristics, and potential therapeutic targets of gliomas. By integrating transcriptomics, proteomics, and single-cell transcriptomics, I aim to dissect the complexity of gliomas and identify novel biomarkers and therapeutic targets. Equally important, I seek to validate these omics-derived findings through comprehensive cellular, molecular, and animal experiments, thereby uncovering deeper molecular mechanisms. I am proficient in using R, Python, and other computational tools to analyze high-throughput omics data—including transcriptomics, proteomics, and single-cell RNA sequencing—to identify key genes, signaling pathways, and tumor microenvironmental features.
 
 ## Research Interest 1
 
