@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Bridge-layered decompression technique for vertebral artery-involved hemifacial spasm: technical note"
 collection: publications
-category: manuscripts
+category: Clinical Neuroscience
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This study presents an effective and safe ‘bridge-layered’ decompression technique for vertebral artery–involved hemifacial spasm.'
+date: 2024-5-14
+venue: 'BMC Surgery'
+paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://bmcsurg.biomedcentral.com/articles/10.1186/s12893-024-02415-1)'
+citation: 'Lei Shen*, Jingyi Yang, Runqi Cheng, et al. “Bridge-layered decompression technique for vertebralartery-involved hemifacial spasm: technical note”. In: BMC Surgery 24.1 (May 2024), p. 154. doi:10.1186/s12893-024-02415-1.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This study introduces a novel “bridge-layered” decompression technique for treating vertebral artery–involved hemifacial spasm (VA-involved HFS). The “bridge” component lifts the tortuous vertebral artery trunk to relieve compression on the root exit zone (REZ) of the facial nerve, while the “layered” component isolates and decompresses branch vessels to achieve full decompression of all responsible vessels. Clinical results from 62 patients showed high efficacy, with immediate or delayed cure in almost all cases, no recurrence during follow-up, and minimal complications, demonstrating that the “bridge-layered” technique is a safe and effective approach for VA-involved HFS with potential for broader clinical application.
+![sa](https://leishen00.github.io/images/BMC_Surg.png)
