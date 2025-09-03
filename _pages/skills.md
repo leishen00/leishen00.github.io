@@ -27,7 +27,7 @@ comments: true
     <ul class="list-disc list-inside space-y-1">
       <li>R, Python</li>
       <li>Bulk RNA-seq, single-cell RNA-seq, proteomics, metabolomics analysis</li>
-      <li>Differential expression, functional enrichment, immune landscape, feature selection, model construction & validation, drug sensitivity prediction</li>
+      <li>Differential expression, functional enrichment, immune landscape, machine learning-based feature selection, biomarker discovery, model construction & validation, drug sensitivity prediction, somatic mutation analysis, alternative splicing analysis</li>
       <li>High-throughput data visualization and statistical analysis</li>
     </ul>
   </div>
@@ -57,7 +57,7 @@ comments: true
     <h3 class="text-xl font-semibold mb-2">Languages & Strengths 🌟</h3>
     <ul class="list-disc list-inside space-y-1">
       <li>Chinese (native), English (proficient)</li>
-      <li>Strong self-learning ability and independent thinking</li>
+      <li>Strong self-learning ability, independent thinking, and proactive acquisition of new methods and techniques</li>
       <li>Integration of multi-omics data with experimental validation</li>
       <li>Ability to translate research findings into clinical applications</li>
       <li>Effective communication and teamwork in interdisciplinary projects</li>
